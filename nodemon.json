@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "admin1",
+    "TOKEN_SECRET": "asdfasdfsadgfwer12341234weavq234mrk3q",
+    "DB_USER_NAME": "admin1"
+  }
+}
